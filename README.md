@@ -1,7 +1,8 @@
 # vibecoding-ai-ui-samples-2025
 ### Pruebas que hice en mayo 2025 al 30 julio 2025
 
-Este repositorio es el resultado de un experimento de vibecoding realizado en mayo 2025 /julio 2025 **Enfocado a empresas medianas LATAM 2026** 
+Este repositorio es el resultado de un experimento de vibecoding realizado en mayo 2025 /julio 2025
+**Enfocado a empresas medianas LATAM 2026** 
 
 ## Justificación del Proyecto
 
@@ -13,7 +14,7 @@ El cliente me pidió cometer un delito, y me retiré el 3 de junio 2025. Quité 
 
 No vas a ver aqui pruebas completas ni al ganador que fue claude. Claude lo incorporé en mi diseño de producción, así que está cubierto por NDA. El Ganador fue Claude y el finalista fue Cohere
 
-Las alucinaciones de las IA fueron interesantes. Algunas cosas se ven bien, con iconos buenos. Otras colores impresionantes. Finalmente consolidé las ideas en varias plantillas, pero el material aquí presentado representa las soluciones de Cohere que fueron curadas y refinadas, incorporando elementos visuales de otras IAsHay dos versiones de Cohere. La segunda fue porque le dije que tenía un usuario daltónico, y me dio algo impresionante sobre su producto original.
+Las alucinaciones de las IA fueron interesantes. Algunas cosas se ven bien, con iconos buenos. Otras colores impresionantes. Finalmente consolidé las ideas en varias plantillas, pero el material aquí presentado representa las soluciones de Cohere que fueron curadas y refinadas, incorporando elementos visuales de otras IAs. Hay dos versiones de Cohere. La segunda fue porque le dije que tenía un usuario daltónico, y me dio algo impresionante sobre su producto original.
 
 En la medida de lo posible el nombre del archivo indica la IA que generó el contenido.
 
@@ -58,6 +59,9 @@ FIN DE PROMPT
 ## Contenido del Repositorio
 
 Este repositorio contiene los artefactos generados por Cohere y otros que cumplieron con estos requisitos técnicos y que sirvieron como referencia durante el proceso de desarrollo y refinamiento de la interfaz final, y después de mi salida, como material de trabajo posterior.
+
+Hay archivos sueltos de pruebas secundarias que conservé. Ejemplo, Pantallas de menú, login y de versiones de mosaico pero no interfaz metro.
+
 ## ⚖️ Sobre la Licencia
 He elegido la **Licencia MIT** por su simplicidad. Es lo más cercano a una "Creative Commons" para código: haz lo que quieras con él, solo mantén el crédito del autor. 
 
@@ -79,6 +83,9 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 ## 📂 Guía de Archivos (Los Especímenes)
 
 * **`cohere.php`**: La versión finalista de Cohere, Ia no muy conocida.
+* **`cohere2.php`**: Alimenté cohere.php y le dije que lo pensara para un usuario daltónico
+
+Iré subiendo más archivos una vez verifique no implican NDA.
 
 ---
 
