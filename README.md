@@ -84,7 +84,7 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 
 * **`cohere.php`**: La versión finalista de Cohere, Ia no muy conocida.
 * **`cohere2.php`**: Alimenté cohere.php y le dije que lo pensara para un usuario daltónico
-* **`samsung.php`**: En medio de las pruebas un usuario adulto mayor tuvo problemas con una fuente en su celular samsung. Cumplió el objetivo peor por mi salida no se implementó en sistema respectivo y se quedó solo en mi propio servidor.
+* **`samsung.php`**: En medio de las pruebas un usuario adulto mayor tuvo problemas con una fuente en su celular samsung. Cumplió el objetivo pero por mi salida no se implementó en sistema respectivo y se quedó solo en mi propio servidor.
 
 Se suben pantallas de ejemplo en png aunque no se ven todos los efectos por ser estáticos
 
