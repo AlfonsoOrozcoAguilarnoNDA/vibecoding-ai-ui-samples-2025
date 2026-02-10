@@ -14,14 +14,14 @@
  *
  * NOTA TÉCNICA:
  * Este código es el resultado de experimentos revisa el README.md
- * para las circunstancias. A este de gemini le hice cos modificaciones
- * le puse losheaders del principio y un color cyan
+ * para las circunstancias. A este de gemini le hice dos modificaciones
+ * le puse los headers de cache del principio y un color cyan
  *
  * Se añadió fondo cyan al contenedor principal durante las pruebas para
  * delimitar el área de trabajo y verificar el scroll horizontal pedido en
  * el prompt
- * El resultado de Gemini fue muy agradable, pero NO permitia icultar el
- * perfil que era mi requerimiento inicial.
+ * El resultado de Gemini fue muy agradable, pero NO permitia ocultar el
+ * perfil que era mi requerimiento principal inicial.
  *
  * DOCUMENTACIÓN de modos de pensar
  * https://vibecodingmexico.com
