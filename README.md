@@ -84,6 +84,7 @@ Elegimos **cPanel** porque es el estándar de la industria desde hace 25 años y
 
 * **`cohere.php`**: La versión finalista de Cohere, Ia chat bot llm no muy conocida.
 * **`cohere2.php`**: Alimenté cohere.php y le dije que lo pensara para un usuario daltónico
+* **`gemini2025.php`**: La versión de gemini 2025 muy buena pero le fallo el requerimiento de ocultar. Se puso un color azul por legibilidad.
 * **`claudelogin.php`**: Una pantalla de login hecha por claude, de alta calidad.
 * **`samsung.php`**: En medio de las pruebas un usuario adulto mayor tuvo problemas con una fuente en su celular samsung. Cumplió el objetivo pero por mi salida no se implementó en sistema respectivo y se quedó solo en mi propio servidor.
 
